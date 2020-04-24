@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="nv-websocket-client-2.5">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Lib/java/nv-websocket-client-2.5.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

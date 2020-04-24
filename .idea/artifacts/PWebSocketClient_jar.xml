@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="PWebSocketClient:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/PWebSocketClient_jar</output-path>
+    <root id="archive" name="PWebSocketClient.jar">
+      <element id="module-output" name="PWebSocketClient" />
+      <element id="extracted-dir" path="$USER_HOME$/Lib/java/nv-websocket-client-2.5.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
